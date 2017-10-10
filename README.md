@@ -8,8 +8,8 @@ Best Regards,
 
 Michael
 
-Michael Ocampo Technical <br />
-Account Manager <br />
+Michael Ocampo <br />
+Technical Account Manager <br />
 Bitbar, Inc. <br />
 E-mail: michael.ocampo at bitbar.com <br />
 Office: (415) 769-3632 <br />
