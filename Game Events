@@ -1,0 +1,92 @@
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 391.5, "y": 739.5, "w": 297, "h": 297 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Update", "id": "/Scene/Canvas/Button::UnityEngine.UI.Button", "rect": { "x": 391.5, "y": 811.5, "w": 297, "h": 297 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 40.49999, "y": 40.50012, "w": 121.5, "h": 121.4999 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 40.49999, "y": 40.50012, "w": 121.5, "h": 121.4999 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ButtonVolMinus::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 75.9375, "y": 1230, "w": 421.875, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ButtonVolPlus::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 582.1875, "y": 1230, "w": 421.875, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ButtonVolMinus::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ButtonVolPlus::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/ExamplePopup/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/OkayButton::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 549.8232, "y": 994.3811, "w": 98.23175, "h": 39.29272 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/CancelButton::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 431.9451, "y": 994.3811, "w": 98.23175, "h": 39.29272 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Update", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/OkayButton::UnityEngine.UI.Button", "rect": { "x": 573.75, "y": 1078.125, "w": 337.5, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Update", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/CancelButton::UnityEngine.UI.Button", "rect": { "x": 168.75, "y": 1078.125, "w": 337.5, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/OkayButton::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/ExamplePopup/Canvas/Group/DarkenBackground/Popup/CancelButton::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/ExamplePopup/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 40.49999, "y": 40.50012, "w": 121.5, "h": 121.4999 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 40.49999, "y": 40.50012, "w": 121.5, "h": 121.4999 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ButtonVolMinus::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 75.9375, "y": 1230, "w": 421.875, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ButtonVolPlus::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 582.1875, "y": 1230, "w": 421.875, "h": 135 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/Title/ButtonBack::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ButtonVolMinus::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Remove", "id": "/Scene/Canvas/ButtonVolPlus::UnityEngine.UI.Button" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PopCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "PushCanvas", "id": "/Scene/Canvas::UnityEngine.Canvas" }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 0/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 143.4375, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 1/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 695.25, "y": 767.625, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 3/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 693.5625, "y": 1498.313, "w": 253.125, "h": 81 } }
+I/Unity   (22005): TESTDROID_DATA: { "eventType": "Add", "id": "/Scene/Canvas/ScrollableListItem 4/Button::UnityEngine.UI.Button", "gestureType": "Tap", "rect": { "x": 141.75, "y": 1488.188, "w": 253.125, "h": 81 } }
